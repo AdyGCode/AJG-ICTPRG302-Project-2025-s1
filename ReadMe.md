@@ -117,8 +117,7 @@ git remote remove origin
 Next add your new GitHub repository:
 
 ```shell
-git remote add origin https://github.
-com/YOUR_GITHUB_ACCOUNT/XXX-ICTPRG302-Project-2025-S1
+git remote add origin https://github.com/YOUR_GITHUB_ACCOUNT/XXX-ICTPRG302-Project-2025-S1
 ```
 
 Remember to replace `XXX` with your initials, `ICTPRG302` with the
